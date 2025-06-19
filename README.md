@@ -4,13 +4,13 @@ Test automation script for UI Test Automation Playground
 
 
 2. clone repo to local to directory
-`git clone www.github.com/url`
+`git clone https://github.com/ivanvasilyevsqa/test_playground`
 
 3. Spin up a virtual environment
 `python3 -m venv venv`
 
 4. activate python virtual environment
-`source virtual_environment/bin/activate`
+`source venv/bin/activate`
 
 5. install all dependencies from requirements.txt
 `pip3 install -r requirements.txt`
